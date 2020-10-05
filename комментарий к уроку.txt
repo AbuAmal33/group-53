@@ -1,0 +1,9 @@
+git config --global user.name "Alvi" 
+git config --global user.name "stream@mail.ru"
+git init - инициализация гита в папке
+git status - проверка состояния
+git add <filename> - добавить файл по имени
+git add .  - добавить все файлы
+git commit -m "texttext" - коммит
+git log - просмотр коммитов
+git diff - просмотр изменений в файле
